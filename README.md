@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnecFox
 - 👀 I’m interested in simple programs and games
 - 🌱 I’m currently learning Java, Python, C# and Swift
-- 🦊 My GitLab: https://gitlab.com/AnecFox
+- 🦊 New versions of projects in GitLab: https://gitlab.com/AnecFox
 
 <!---
 AnecFox/AnecFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
