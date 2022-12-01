@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnecFox
 - 👀 I’m interested in simple programs and games
-- 🌱 I’m currently learning Java, Python, C# and Swift
+- 🌱 I’m currently learning Java, Python, C# and Kotlin
 - 🦊 New versions of projects in GitLab: https://gitlab.com/AnecFox
 
 <!---
